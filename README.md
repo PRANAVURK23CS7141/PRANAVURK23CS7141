@@ -1,3 +1,3 @@
-HI,im @PRANAVURK23CS7141
-IM interested in coding
-im currently learning programming languages
+.HI,im @PRANAVURK23CS7141
+.IM interested in coding
+.im currently learning programming languages
